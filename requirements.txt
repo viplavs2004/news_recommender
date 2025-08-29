@@ -1,0 +1,19 @@
+# Core dependencies
+numpy
+pandas
+
+# For ML/NLP (lightweight start, expand later)
+scikit-learn
+
+# Logging & Exception Handling
+loguru
+
+# Dev Tools (optional, for formatting/testing)
+pytest
+black
+flake8
+fastapi 
+uvicorn
+
+# Editable install of your package
+-e .
